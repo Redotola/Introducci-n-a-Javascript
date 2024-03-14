@@ -23,3 +23,13 @@ NPM el manejador de paquetes y librerias de Node.
 - Actualizar nueva version de node 
     + sudo n latest
 
+Python en un lenguaje de programacion multiproposito facil de leer y comprender
+
+- Actualizacion
+    + sudo apt install python3.(#version)
+
+Git
+
+- Instalacion
+    + sudo apt-get install git-all
+
