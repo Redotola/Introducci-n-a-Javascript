@@ -33,3 +33,23 @@ Git
 - Instalacion
     + sudo apt-get install git-all
 
+Comandos de consola
+
+    - Crear carpetas
+        + mkdir
+
+    - Crear varios archivos
+        + touch (archivos)
+
+    - Copiar archivo
+        + cp (nombre de archivo) (nuevo nombre de archivo)
+
+    - Mover archivo
+        + mv (ubicacion actual archivo) (nueva ubicacion)
+
+    - Borrar archivo (peligrosa)
+        + rm (nombre de archivo)
+
+    - Borrar archivo preguntando (segura)
+        + rm -i (nombre de archivo)
+    
