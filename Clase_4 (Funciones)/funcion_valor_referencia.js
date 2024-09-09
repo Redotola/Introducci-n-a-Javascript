@@ -20,3 +20,4 @@ function cambiarObjeto(parametro){
 let arreglo = [10];
 console.log(`Antes funcion: ${arreglo[0]}`);
 cambiarValor(arreglo);
+console.log(`Despues funcion: ${arreglo[0]}`);
